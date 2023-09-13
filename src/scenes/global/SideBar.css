@@ -1,0 +1,52 @@
+.ps-sidebar-root {
+    position: relative;
+    border-right-width: 0px !important;
+    border-right-style: solid;
+    border-color: #efefef;
+    -webkit-transition: width left right 300ms;
+    transition: width left right 300ms;
+    width: 250px;
+    min-width: 250px;
+}
+.ps-menu-button:hover{
+    color: #000000 !important;
+}
+/* h3:hover{
+    color: #000000 !important;
+} */
+.ps-menu-button{
+    color: white !important;
+}
+h3{
+    color: white !important;
+}
+h6{
+    color: rgb(38, 83, 245) !important;
+    font-size: 18px !important;
+    font-weight: 800 !important;
+}
+.Title{
+    color: rgb(38, 83, 245) !important;
+
+}
+
+.titles:hover{
+    color: #141B2D !important;
+}
+.whiteText {
+    color: white;
+  }
+  
+  .transparentBg {
+    background: none;
+  }
+.teacher{
+    margin-right: 40px;
+    margin-left: 15px;
+}
+.teacher_img{
+    margin-left: 8px;
+}
+.content{
+    overflow-y: hidden;
+}
